@@ -14,7 +14,7 @@ My best result thus far is 96% accuracy using a random forest classifier.
 ---
 ### Todo:
 
-* implement some a SVM
+* implement a support vector machine
 * maybe try tensorflow
 
 ---
