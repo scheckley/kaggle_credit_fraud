@@ -1,0 +1,2 @@
+model_checkpoint_path: "temp_saved_model_1layer.ckpt"
+all_model_checkpoint_paths: "temp_saved_model_1layer.ckpt"
