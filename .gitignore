@@ -8,3 +8,5 @@ y_resampled.pkl
 *.pkl
 *.meta
 *.index
+temp_saved_model_1layer.ckpt.data-00000-of-00001
+temp_saved_model_FCLayers.ckpt.data-00000-of-00001
