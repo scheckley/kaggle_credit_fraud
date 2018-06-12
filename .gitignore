@@ -6,3 +6,5 @@ data/creditcardfraud.zip
 X_resampled.pkl
 y_resampled.pkl
 *.pkl
+*.meta
+*.index
