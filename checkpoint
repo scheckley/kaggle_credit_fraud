@@ -1,2 +1,0 @@
-model_checkpoint_path: "temp_saved_model_FCLayers.ckpt"
-all_model_checkpoint_paths: "temp_saved_model_FCLayers.ckpt"
