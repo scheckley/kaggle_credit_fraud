@@ -11,11 +11,4 @@ Analysis is influenced by these sources:
 
 My best result thus far is 96% accuracy using a random forest classifier.
 
----
-### Todo:
-
-* implement a support vector machine
-* maybe try tensorflow
-
----
 
